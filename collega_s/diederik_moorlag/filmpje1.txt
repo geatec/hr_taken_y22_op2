@@ -1,0 +1,33 @@
+Nadeel getter / setter: veel meer code
+Constructor is altijd public? Nee toch?
+
+Toon wat vlak, wel heel rustig en helder maar ook beetje vreugdeloos.
+
+Geen vragen: Dus het is voor jullie nog onduidelijk, geen respons, beurten geven?
+Ben ik nu klaar, heb ik alles wat ik  nodig heb voor huis met bewoner? Niemand antwoord, beurten geven!
+(Huis h, nee Huis huis!)
+Heeft iemand een idee? Mensen laten praten. Meteen bij eerste les al. Probeer klein groepje mee te krijgen!
+Misschien gewoon zeggen dat je het anders wil gaan doen, gezelliger wil maken.
+Hen daarbij inschakelen, te beginnen met de makkelijkste student.
+Zijn er regels voor die camera?
+Zijn er studenten die je in het complot kunt betrekken?
+
+References zijn strongly typed, pointers ook!! Tenzij ze void zijn.
+
+References wijzen niet naar een geheugenplek... Mysterieus. Hier moet je iets over de VM vertellen.
+Bij C++ wijzen refs wel naar een geheugenplek
+
+Eindeloze constructor-recursie: Beetje vergezocht, is dat nu echt een belangrijke valkuil vgt. met alle andere stack-overflow causes.
+
+Ben "met mijn briljante hoofd" vergeten changeKleur aan te roepen: Zo haal je jezelf onderuit.
+Wees zeer spaarzaam (if ever) met cynisme, het is negatief, beetje liefdeloos, over jezelf of anderen.
+
+Copy by reference versus copy by value heeft meer uitleg nodig. Herhaling. Op verschillende manier zeggen. Voorbeelden en tegenvoorbeelden.
+Dit vinden ze HEEL moeilijk, weet ik van C++.
+
+Uitglijder: 23:45 Copy by ref als je dat wil doen moet je echt een kopie maken, kijken naar deep-copies. (Nee, als je copy by value wil doen!)
+
+Garbage collection: Noem naast ref counting ook mark-and-sweep voor islands of isolation
+
+
+
